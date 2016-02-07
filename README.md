@@ -28,4 +28,4 @@ Team  Captain Grade Points
 6	A	400
 7	B	360
 
-The basic formula used is [math] X[i]-Y[i]/N [/math]
+The basic formula used is ''' X[i]-Y[i]/N '''
